@@ -101,9 +101,3 @@ For major changes, please open an issue first to discuss what you’d like to mo
 
 This project is licensed under the **MIT License** — feel free to use or modify it.
 
----
-
-If you want, I can also:
-🔹 Add a **requirements.txt**
-🔹 Turn it into a **real-time GUI game**
-🔹 Upload directly to GitHub with perfect file structure
